@@ -26,7 +26,7 @@
 }
 .xccstyle .navtop .xccHeader .maindrop {
     display: inline-block;
-    margin-bottom: -5px;
+    margin-bottom: 5px;
 }
 .xccstyle .navtop .maindrop li {
     float: left;
@@ -35,7 +35,7 @@
 }
 .xccstyle .navtop .maindrop li ul {
     position: absolute;
-    width: 120px;
+    width: 140px;
     top: 25px;
     left: -3000px;
 }
