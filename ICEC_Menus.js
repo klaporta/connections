@@ -101,7 +101,7 @@ function addNavToPage(navHTML) {
     let newDiv = document.createElement('div');
     newDiv.setAttribute('id', 'icecNavigation');
     const body = document.querySelector('body');
-    let lotusFrame = document.querySelector('.lotusTitleBar2');
+    let lotusFrame = document.querySelector('.lotusFrame');
     body.insertBefore(newDiv, lotusFrame);
     const insertTo = document.getElementById('icecNavigation');
     if (insertTo) insertTo.innerHTML = navHTML;
