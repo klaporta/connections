@@ -5,7 +5,7 @@
 
 /*change search box */
 .search-history-view-ui .lotusui30 .icSearchPaneButton .icSearchIcon svg {
-    fill: #000;
+    fill: #000 !important;
 }
 
 .search-history-view-ui .lotusui30 .icSearchPaneButton {
