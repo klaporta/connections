@@ -12,3 +12,8 @@
     background-color: #eee !important;
     outline: 1px solid #eee !important;
   }
+
+/
+.personMenu .topActionHolder{
+    display: none !important;
+}
