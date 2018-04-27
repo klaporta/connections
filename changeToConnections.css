@@ -13,7 +13,7 @@
     outline: 1px solid #eee !important;
   }
 
-/
+/* Hide the top header of the business card */
 .personMenu .topActionHolder{
     display: none !important;
 }
