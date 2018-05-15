@@ -19,6 +19,6 @@
 }
 
 /* Hide Meeting */
-div#upperSection.llmgUpperSection{
+.llmtgContentArea {
     display:none;
 }
