@@ -19,6 +19,6 @@
 }
 
 /* Hide Meeting */
-#join{
-    display: none;
+div#upperSection.llmgUpperSection{
+    display:none;
 }
