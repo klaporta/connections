@@ -17,3 +17,8 @@
 .personMenu .topActionHolder{
     display: none !important;
 }
+
+/* Hide Meeting */
+#join{
+    display: none;
+}
