@@ -10,4 +10,4 @@ function getCookie(name) {
 }
 gtag('set', 'metric1', getCookie('ids').split(':')[0]);
 gtag('js', new Date());
-gtag('config', 'UA-115321653-1');
+gtag('config', 'UA-6440773-8');
