@@ -19,6 +19,6 @@
 }
 
 /* top header background color */
-.ics-scbanner.isfixed{
+.ics-scbanner .isfixed{
 background-color: #000 !important;
 }
