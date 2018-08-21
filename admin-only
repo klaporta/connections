@@ -1,0 +1,1 @@
+.lotusActionBar[aria-label] { display: block !important; }
