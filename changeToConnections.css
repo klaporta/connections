@@ -1,0 +1,23 @@
+/* remove blue ribbon */
+.ics-scbanner-gen4border {
+    background-color: #fff !important;
+    }
+
+/*change search box */
+.search-history-view-ui .lotusui30 .icSearchPaneButton .icSearchIcon svg {
+    fill: #000 !important;
+}
+
+.search-history-view-ui .lotusui30 .icSearchPaneButton {
+    background-color: #eee !important;
+    outline: 1px solid #eee !important;
+  }
+
+/* Hide the top header of the business card */
+.personMenu .topActionHolder{
+    display: none !important;
+}
+
+/*.lotusui30 a, .lotusui30 a:visited{
+    color: #464646 !important;
+}*/
