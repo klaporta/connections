@@ -14,7 +14,7 @@
 }
 #icecNavigation {
     position: relative;
-    left: 30px;
+
     z-index: 1000;
 }
 .xccstyle .navtop .maindrop, 
@@ -123,11 +123,4 @@
     float: right;
     padding-top: 1px;
     color: #eee;
-}
-
-@media all and (-ms-high-contrast:none) {
-    /* IE11 adjustment */
-     *::-ms-backdrop, .lotusui30_body .lotusFrame {
-         margin-top: 40px;
-    } 
 }
